@@ -1,0 +1,12 @@
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\bin\Debug\net6.0\Pokemon.Core.deps.json
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\bin\Debug\net6.0\Pokemon.Core.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\bin\Debug\net6.0\Pokemon.Core.pdb
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.csproj.AssemblyReference.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.AssemblyInfoInputs.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.AssemblyInfo.cs
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\refint\Pokemon.Core.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\Pokemon.Core.pdb
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Core\obj\Debug\net6.0\ref\Pokemon.Core.dll
