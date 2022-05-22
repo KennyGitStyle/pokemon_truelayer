@@ -1,6 +1,6 @@
 namespace Pokemon.Core
 {
-    public class Pokemon
+    public class PokemonInfo
     {
         public string? PokemonId { get; set; }
         public string Name { get; set; } = string.Empty!;

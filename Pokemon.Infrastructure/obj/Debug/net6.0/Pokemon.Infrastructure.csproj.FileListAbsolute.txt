@@ -10,3 +10,8 @@ C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\ne
 C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\refint\Pokemon.Infrastructure.dll
 C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.pdb
 C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\ref\Pokemon.Infrastructure.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Infrastructure.runtimeconfig.json
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Core.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Core.pdb
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.csproj.CopyComplete
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.genruntimeconfig.cache
