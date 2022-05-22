@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infraustructure\\Pokemon.Infraustructure.csproj",
-      "projectName": "Pokemon.Infraustructure",
-      "projectPath": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infraustructure\\Pokemon.Infraustructure.csproj",
+      "projectUniqueName": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
+      "projectName": "Pokemon.Infrastructure",
+      "projectPath": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infraustructure\\obj\\",
+      "outputPath": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

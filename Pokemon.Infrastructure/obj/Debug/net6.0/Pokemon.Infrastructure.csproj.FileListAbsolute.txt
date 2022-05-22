@@ -1,0 +1,12 @@
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Infrastructure.deps.json
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Infrastructure.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\bin\Debug\net6.0\Pokemon.Infrastructure.pdb
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.AssemblyInfo.cs
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\refint\Pokemon.Infrastructure.dll
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\Pokemon.Infrastructure.pdb
+C:\Users\Kenneth\Desktop\truelayer_take_home\Pokemon.Infrastructure\obj\Debug\net6.0\ref\Pokemon.Infrastructure.dll

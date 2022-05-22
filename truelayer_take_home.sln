@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon.Core", "Pokemon.Core\Pokemon.Core.csproj", "{77434550-3C04-4B6B-ACBE-9ACC31D75382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon.Infraustructure", "Pokemon.Infraustructure\Pokemon.Infraustructure.csproj", "{DEA9C1C0-394D-4156-820C-A66FCF253F24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon.Infrastructure", "Pokemon.Infrastructure\Pokemon.Infrastructure.csproj", "{DEA9C1C0-394D-4156-820C-A66FCF253F24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon.XUnitTest", "Pokemon.XUnitTest\Pokemon.XUnitTest.csproj", "{72CAA662-6C45-42E1-A845-41F16141DE78}"
 EndProject
