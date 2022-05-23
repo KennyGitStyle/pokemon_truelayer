@@ -10,7 +10,7 @@ using Pokemon.Infrastructure.Data.PokemonContext;
 namespace Pokemon.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(PokemonDbContext))]
-    [Migration("20220523110107_InitialCreate")]
+    [Migration("20220523113546_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,10 +25,12 @@ namespace Pokemon.Infrastructure.Data.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
+                        .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
                         .IsRequired()
+                        .HasMaxLength(50)
                         .HasColumnType("TEXT");
 
                     b.HasKey("PokemonInfoId");

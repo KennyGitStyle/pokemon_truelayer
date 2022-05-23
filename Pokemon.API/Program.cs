@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using Pokemon.API.Extension;
+using Pokemon.Infrastructure.Data.PokemonContext;
 using Pokemon.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +16,7 @@ builder.Services.AddSqliteDatabaseConnection(builder.Configuration); // DbConnec
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -27,4 +30,19 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();
+
+using var serviceProvider = app.Services.CreateScope();
+var services = serviceProvider.ServiceProvider;
+var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+try
+{
+    var context = services.GetRequiredService<PokemonDbContext>();
+    await context.Database.MigrateAsync();
+}
+catch (Exception ex){
+    var logger = loggerFactory.CreateLogger<Program>();
+    logger.LogError(ex, "An error occurred while migrating the database.");
+}
+                
+            
+await app.RunAsync();

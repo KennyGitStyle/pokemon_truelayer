@@ -1,3 +1,4 @@
+using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using Pokemon.Core;
 
@@ -10,6 +11,12 @@ namespace Pokemon.Infrastructure.Data.PokemonContext
         {
         }
 
-        public DbSet<PokemonInfo> Pokemon { get; set; }
+        public DbSet<PokemonInfo> Pokemons { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
     }
 }
