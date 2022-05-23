@@ -4,6 +4,6 @@ namespace Pokemon.Infrastructure.Repository
 {
     public interface IPokemonContract
     {
-        Task<PokemonInfo> GetAsync(string pokemonId);
+        Task<PokemonInfo> GetPokemonAsync(string pokemonId);
     }
 }

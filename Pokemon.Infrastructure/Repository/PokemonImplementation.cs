@@ -17,7 +17,7 @@ namespace Pokemon.Infrastructure.Repository
 
         }
 
-        public async Task<PokemonInfo> GetAsync(string pokemonId)
+        public async Task<PokemonInfo> GetPokemonAsync(string pokemonId)
         {
             pokemonId = pokemonId.ToLower();
             var getPokemon = await _context.Pokemons.FirstOrDefaultAsync(p => p.PokemonInfoId == pokemonId);
