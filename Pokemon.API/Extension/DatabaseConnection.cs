@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Pokemon.Infrastructure.PokemonContext;
+using Pokemon.Infrastructure.Data.PokemonContext;
 
 namespace Pokemon.API.Extension
 {

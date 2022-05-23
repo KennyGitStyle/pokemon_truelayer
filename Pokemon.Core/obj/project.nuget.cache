@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+xTbExOu6BKjdPzP/HfMo0GjqK+KFG/2c1dwLsKbuNfT4FTsyxEWAXkJKYYk4mcM8G0QXVnuzov/X3LcL0VVTQ==",
+  "dgSpecHash": "NtPTgXOzmUKFLnQ+LMCnqtu7V4yPnRZ00SU/wyiwilFS4c9IJD5bHbmf39SS1jNQxB+B4EFfUM/2XV18LFt+VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenneth\\Desktop\\truelayer_take_home\\Pokemon.Core\\Pokemon.Core.csproj",
+  "projectFilePath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
