@@ -3,6 +3,7 @@ using Microsoft.OpenApi.Models;
 using Pokemon.API.Extension;
 using Pokemon.Infrastructure.Data.PokemonContext;
 using Pokemon.Infrastructure.Repository;
+using Pokemon.Infrastructure.SeedData;
 using Swashbuckle.AspNetCore.SwaggerUI;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -48,6 +49,7 @@ try
 {
     var context = services.GetRequiredService<PokemonDbContext>();
     await context.Database.MigrateAsync();
+    await DataSeed.DbInitializer(context, loggerFactory);
 }
 catch (Exception ex){
     var logger = loggerFactory.CreateLogger<Program>();

@@ -615,6 +615,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.5",
+          "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": "6.0.5",
           "Pokemon.Core": "1.0.0"
         },
         "compile": {
@@ -1547,14 +1548,15 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj"
+            "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xi/kRh4hZwNkPXiSUCEccYaFFqqQOdDAdH/s0LjM+8FNCCwFTEtrgKkn1lt6bEy7vM+7nnw4jKX+kffwzVvOVA==",
+  "dgSpecHash": "cPTzw194Gt/pUk2/N3HzXHHs5m4PKvRMgapsO61pNkEUin/Cl5ei/o9O39sEvJlezyrxvlHuEA0kv3NJc4LwnQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenny\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kenny\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {}
+    "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {}
   },
   "projects": {
     "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {
+    "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
         "projectName": "Pokemon.Infrastructure",
-        "projectPath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\Pokemon.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kenny\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,6 +75,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

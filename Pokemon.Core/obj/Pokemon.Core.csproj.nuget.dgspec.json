@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj": {}
+    "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj": {
+    "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj",
+        "projectUniqueName": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj",
         "projectName": "Pokemon.Core",
-        "projectPath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj",
+        "projectPath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\Pokemon.Core.csproj",
         "packagesPath": "C:\\Users\\kenny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\obj\\",
+        "outputPath": "c:\\Users\\kenny\\Desktop\\pokemon\\pokemon_truelayer\\Pokemon.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenny\\AppData\\Roaming\\NuGet\\NuGet.Config",
